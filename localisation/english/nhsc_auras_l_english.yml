@@ -7,7 +7,7 @@
 ########################################
 
 NHSC_TITAN_AURA_VANILLA_MIRAGE: "Mirage System"
-NHSC_TITAN_AURA_VANILLA_MIRAGE_DESC: "A set of projectors and cloaking devices that alter fleets' apparent position, making it much harder for enemies to hit."
+NHSC_TITAN_AURA_VANILLA_MIRAGE_DESC: "A set of projectors and cloaking devices that alter a fleet's apparent position, making it much harder for enemies to hit."
 NHSC_TITAN_AURA_NSC_MIRAGE: "$NHSC_TITAN_AURA_VANILLA_MIRAGE$"
 NHSC_TITAN_AURA_NSC_MIRAGE_DESC: "$NHSC_TITAN_AURA_VANILLA_MIRAGE_DESC$"
 nhsc_aura_mirage_system: "$NHSC_TITAN_AURA_VANILLA_MIRAGE$"
