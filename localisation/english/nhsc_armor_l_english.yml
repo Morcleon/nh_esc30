@@ -28,8 +28,8 @@ LARGE_NHSC_ADV_ARMOR_2_DESC: "$NHSC_ADV_ARMOR_2_DESC$"
 ###        Nanomaterial Armor        ###
 ########################################
 
-NHSC_NANO_ARMOR_1: "Nano-material Armor"
-NHSC_NANO_ARMOR_1_DESC: "By adding nanities programmed to run repair jobs into the ship's hull we're able to create an armor that not only protects from damage, but also repairs any damage it couldn't prevent."
+NHSC_NANO_ARMOR_1: "Nano-Material Armor"
+NHSC_NANO_ARMOR_1_DESC: "By adding nanities programmed to run repair jobs into the ship's hull, we're able to create an armor that not only protects from damage, but also repairs any damage it couldn't prevent."
 SMALL_NHSC_NANO_ARMOR_1: "Small $NHSC_NANO_ARMOR_1$"
 SMALL_NHSC_NANO_ARMOR_1_DESC: "$NHSC_NANO_ARMOR_1_DESC$"
 MEDIUM_NHSC_NANO_ARMOR_1: "Medium $NHSC_NANO_ARMOR_1$"
@@ -37,7 +37,7 @@ MEDIUM_NHSC_NANO_ARMOR_1_DESC: "$NHSC_NANO_ARMOR_1_DESC$"
 LARGE_NHSC_NANO_ARMOR_1: "Large $NHSC_NANO_ARMOR_1$"
 LARGE_NHSC_NANO_ARMOR_1_DESC: "$NHSC_NANO_ARMOR_1_DESC$"
 
-NHSC_NANO_ARMOR_2: "Improved Nano-material Armor"
+NHSC_NANO_ARMOR_2: "Improved Nano-Material Armor"
 NHSC_NANO_ARMOR_2_DESC: "An improved version of nanite-infused armor. It's tougher and can self-repair faster."
 SMALL_NHSC_NANO_ARMOR_2: "Small $NHSC_NANO_ARMOR_2$"
 SMALL_NHSC_NANO_ARMOR_2_DESC: "$NHSC_NANO_ARMOR_2_DESC$"
